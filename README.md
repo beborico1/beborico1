@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beborico1
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on Swift Mobile Apps
+- 🌱 I’m currently learning Swift UI
+- 💞️ I’m looking to collaborate on React Native Apps
 - 📫 How to reach me: beborico16@gmail.com
